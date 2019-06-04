@@ -7,8 +7,8 @@ hiper
 daniel
 fortesque
 ***********************************
-esclava
-esclava
+alberto
+jamon
 ***********************************
 gatito
 miau
